@@ -84,49 +84,30 @@ To install and run SnowyArt locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/programming-hero-web-course-4/B9A10-client-side-ataullah1.git
+   git clone https://github.com/dev-ataullah/Snowy-Art.git
    ```
 
 2. Navigate into the project directory:
 
    ```
-   cd SnowyArt
+   cd Snowy-Art\SnowyArt-Client-Side
    ```
 
-3. Install dependencies using npm or yarn:
+3. Install dependencies
 
    ```
-   npm install -D tailwindcss postcss autoprefixer
+   npm install
    ```
 
-   #or
+4. Run the development server:
 
-   ```
-   yarn install -D tailwindcss postcss autoprefixer
+```
 
-   ```
+npm run dev
 
-4. All packages used by this project must be installed:
+```
 
-- **React Router DOM**
-
-  ```
-  npm install react-router-dom localforage match-sorter sort-by
-  ```
-
-- **Using All Packages**
-
-  ```
-  npm install react-icons swiper firebase react-hook-form sweetalert2 react-fast-marquee react-helmet aos react-tooltip react-simple-typewriter axios @tanstack/react-query
-  ```
-
-5. Run the development server:
-
-   ```
-   npm run dev
-   ```
-
-   #Then Click "o". Then Hit "Enter".
+#Then Click "o". Then Hit "Enter".
 
 ## Feedback and Contributions
 
@@ -145,3 +126,7 @@ Feedback and contributions are welcome! If you encounter any issues or have sugg
 ### Follow on Twitter
 
 [Link to Twitter Profile](https://twitter.com/dev_ataullah)
+
+```
+
+```
